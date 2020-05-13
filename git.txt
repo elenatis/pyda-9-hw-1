@@ -1,4 +1,18 @@
  
+(base) elenasuslova@MacBook-Air-Elena ~ % cd /Users/elenasuslova/Desktop/DATA_SCIENCE/Python
+(base) elenasuslova@MacBook-Air-Elena 01_Python_basics % git add python_basics.ipynb
+(base) elenasuslova@MacBook-Air-Elena 01_Python_basics % git commit --m "hw_1_2"
+[master fed5e7f] hw_1_2
+ 1 file changed, 16 insertions(+), 16 deletions(-)
+(base) elenasuslova@MacBook-Air-Elena 01_Python_basics % git push origin master
+
+
+
+
+
+
+
+
 (base) elenasuslova@MacBook-Air-Elena ~ % git
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
